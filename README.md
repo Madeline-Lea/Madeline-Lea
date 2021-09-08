@@ -14,8 +14,13 @@
   <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Leo-gif" src="https://cdn.discordapp.com/attachments/739876805414092840/884951623116398662/ezgif.com-gif-maker.gif">
 </div>
+
+##
+
+<div>
+ <img align="right" alt="Leo-gif" src="https://cdn.discordapp.com/attachments/739876805414092840/884951623116398662/ezgif.com-gif-maker.gif">
+ </div>
 
 ##
 
