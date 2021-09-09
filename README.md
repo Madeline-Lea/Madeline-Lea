@@ -1,7 +1,7 @@
 ### Oh, hello darling! My name is Leonard is a pleasure have you here!
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning javascript, express and english.
+- 🌱 I’m currently learning adobe illustrator, adobe xd, adobe photoshop, javascript, express, english and game design.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Just a huge fan of Celeste and programming stuff.
 
