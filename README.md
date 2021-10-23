@@ -7,7 +7,7 @@
 
  <div>
   <a href="https://github.com/madeline-lea">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=madeline-lea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madeline-lea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeline-lea&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -28,7 +28,4 @@
 
 ##
 
-<div>
- <img align="right" alt="Leo-gif" src="https://cdn.discordapp.com/attachments/739876805414092840/884951623116398662/ezgif.com-gif-maker.gif">
- </div>
 
