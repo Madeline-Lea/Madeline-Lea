@@ -14,7 +14,7 @@ const life = require("./root/life/live);
 ##
   <h3> Oh, hello darling! My name is Leonard is a pleasure have you here!</h3>
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on nothing (Open to work)
 - 🌱 I’m currently learning adobe illustrator, adobe xd, adobe photoshop, javascript, express, english and game development.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Just a huge fan of Celeste and programming stuff.
