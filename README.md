@@ -1,7 +1,7 @@
-##
+
 <h1> Hello World</h1>
 const vida = require("./root/live/life")
-##
+
   
 <h3> My stats (Minhas estatísticas)</h3>
 
