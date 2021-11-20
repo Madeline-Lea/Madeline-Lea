@@ -20,7 +20,7 @@ const vida = require("./root/live/life")
 - ⚡ Fun fact: Just a huge fan of Celeste and programming stuff.
 ##
 
- <h3>Olá queridos, queridas e querides! Meu nome é Leonardo e é um prazer ter você aqui!</>h3
+ <h3>Olá queridos, queridas e querides! Meu nome é Leonardo e é um prazer ter você aqui!</h3>
 
 - 🔭 Ultimamente não estou trbalhando com nada (Aberto para serviço)
 - 🌱 Atualmente estou apredendo javascript, programas adobe, inglês e programação de jogos.
