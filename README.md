@@ -1,6 +1,9 @@
+##
 <h1> Hello World<h1>
-
-  <h3> My stats (Minhas estatísticas)</h3>
+const vida = require("./root/live/life")
+##
+  
+<h3> My stats (Minhas estatísticas)</h3>
 
 <div>
   <a href="https://github.com/madeline-lea">
