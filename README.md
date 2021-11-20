@@ -1,3 +1,7 @@
+<h1> Hello World<h1>
+
+  <h3> My stats (Minhas estatísticas)</h3>
+
 <div>
   <a href="https://github.com/madeline-lea">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madeline-lea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -5,14 +9,25 @@
 </div>
 
 ##
-### Oh, hello darling! My name is Leonard is a pleasure have you here!
+  <h3> Oh, hello darling! My name is Leonard is a pleasure have you here!</h3>
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning adobe illustrator, adobe xd, adobe photoshop, javascript, express, english and game design.
+- 🌱 I’m currently learning adobe illustrator, adobe xd, adobe photoshop, javascript, express, english and game development.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Just a huge fan of Celeste and programming stuff.
+##
+
+ <h3>Olá queridos, queridas e querides! Meu nome é Leonardo e é um prazer ter você aqui!</>h3
+
+- 🔭 Ultimamente não estou trbalhando com nada (Aberto para serviço)
+- 🌱 Atualmente estou apredendo javascript, programas adobe, inglês e programação de jogos.
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato divertido: Apenas um grande fã de Celeste é de programação.
+
 
 ##
+
+   <h3>🗯  Knowledgements & Languages (Conhecimentos e Linguagens):</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,6 +40,7 @@
 
 ##
 
+  <h3>💞 Connect eith me on (Conecte-se comigo no):</h3>
 <div> 
   <a href="https://www.youtube.com/channel/UCd9Hi7MsfIA9xgBuj2z3gtw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leo_ainowa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
