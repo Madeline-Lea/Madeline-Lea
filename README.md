@@ -56,7 +56,7 @@ const life = require("./root/life/live);
 
 🌌 Just a cool Image:
 
-<img src="https://i2.wp.com/www.fatosdesconhecidos.com.br/wp-content/uploads/2020/02/madeline-celeste-1580498156.jpg?resize=600%2C338&ssl=1" alt="Madeline.jpg">
+<img  style="display: center"src="https://i2.wp.com/www.fatosdesconhecidos.com.br/wp-content/uploads/2020/02/madeline-celeste-1580498156.jpg?resize=600%2C338&ssl=1" alt="Madeline.jpg">
 
 
 
