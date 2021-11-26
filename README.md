@@ -5,7 +5,7 @@ const life = require("./root/life/live);
   
 <h3> My stats (Minhas estatísticas)</h3>
 
-<div>
+<div align="center">
   <a href="https://github.com/madeline-lea">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madeline-lea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeline-lea&layout=compact&langs_count=7&theme=dracula"/>
@@ -32,7 +32,7 @@ const life = require("./root/life/live);
 
    <h3>🗯  Knowledgements & Languages (Conhecimentos e Linguagens):</h3>
 
-<div style="text-align:center"><br>
+<div align="center">
   <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
