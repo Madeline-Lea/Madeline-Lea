@@ -32,7 +32,7 @@ const life = require("./root/life/live);
 
    <h3>🗯  Knowledgements & Languages (Conhecimentos e Linguagens):</h3>
 
-<div style="display: inline_block; text-align:center"><br>
+<div style="text-align:center"><br>
   <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
