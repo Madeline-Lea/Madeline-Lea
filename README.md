@@ -44,7 +44,7 @@ const life = require("./root/life/live);
 ##
 
   <h3>💞 Connect with me on (Conecte-se comigo no):</h3>
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/UCd9Hi7MsfIA9xgBuj2z3gtw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leo_ainowa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/madeline_lea" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
