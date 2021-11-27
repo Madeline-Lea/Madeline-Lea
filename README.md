@@ -1,6 +1,6 @@
 
 <h1> Hello World</h1>
-const life = require("./root/life/live);
+const life = require("./root/life/live){
 
   
 <h3> My stats (Minhas estatísticas)</h3>
@@ -59,4 +59,4 @@ const life = require("./root/life/live);
 <img src="https://i2.wp.com/www.fatosdesconhecidos.com.br/wp-content/uploads/2020/02/madeline-celeste-1580498156.jpg?resize=600%2C338&ssl=1" alt="Madeline.jpg">
 <p>
 
-
+};
