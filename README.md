@@ -5,7 +5,7 @@ const life = require("./root/life/live){
   
 <h3> My stats (Minhas estatísticas)</h3>
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/madeline-lea">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madeline-lea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br />
