@@ -44,10 +44,10 @@ const life = require("./root/life/live){
 
 <br />
 ##
-<div>
+<div align="left">
 <h3>Worktools/Ferramentas</h3>
-  <img align="right" alt="Leo-express" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-  <img align="right" alt="Leo-nodeJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img alt="Leo-express" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+  <img alt="Leo-nodeJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
 ##
