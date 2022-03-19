@@ -45,7 +45,6 @@ const life = require("./root/life/live){
 </div>
 
 <br />
-##
 <div align="left">
 <h3>Worktools/Ferramentas</h3>
   <img alt="Leo-express" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
