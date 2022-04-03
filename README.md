@@ -8,7 +8,6 @@ const life = require("./root/life/live){
 <div align="left">
   <a href="https://github.com/madeline-lea">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madeline-lea&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-<br />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeline-lea&layout=compact&langs_count=7&theme=light"/>
 </div>
 
