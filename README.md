@@ -1,6 +1,6 @@
 
 <h1> Hello World</h1>
-const life = require("./root/life/live){
+var life = require("./root/life/live){
 
   
 <h3> My stats (Minhas estatísticas)</h3>
