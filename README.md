@@ -9,7 +9,7 @@ var life = require("./root/life/live){
   <a href="https://github.com/madeline-lea">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madeline-lea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeline-lea&layout=compact&langs_count=7&theme=dark"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+(https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
 
 ##
